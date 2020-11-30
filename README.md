@@ -1,5 +1,5 @@
 ### Hi there, It's Shahed 👋
-Iam a computer engineer, and I will document my coding journy on this platform.
+I'm a computer engineer, and I will document my coding journey on this platform.
 
 <img src="images/Language%20is%20only%20the%20instrument%20of%20science.gif" width="300">
 <!-- ![](images/Language%20is%20only%20the%20instrument%20of%20science.gif)
@@ -9,8 +9,8 @@ Iam a computer engineer, and I will document my coding journy on this platform.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on java, HTML, CSS, and javascript
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
