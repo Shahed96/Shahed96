@@ -1,5 +1,7 @@
 ### Hi there, It's Shahed 👋
-I'm a computer engineer, and I will document my coding journey on this platform.
+I'm a computer engineer, and I will document my coding journey on this platform.          
+
+
 🔭 I’m currently working on java 
 
 
