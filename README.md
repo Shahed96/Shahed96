@@ -1,4 +1,5 @@
 ### Hi there, It's Shahed 👋
+![Language is only the instrument of science](https://user-images.githubusercontent.com/42739909/100611708-96cf1800-32c6-11eb-9a33-170b032b447e.gif)
 
 <!--
 **Shahed96/Shahed96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
