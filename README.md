@@ -1,4 +1,6 @@
 ### Hi there, It's Shahed 👋
+Iam a computer engineer, and I will document my coding journy on this platform.
+
 <img src="images/Language%20is%20only%20the%20instrument%20of%20science.gif" width="300">
 <!-- ![](images/Language%20is%20only%20the%20instrument%20of%20science.gif)
 
