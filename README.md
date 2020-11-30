@@ -1,6 +1,6 @@
 ### Hi there, It's Shahed 👋
-<img src="images/Language%20is%20only%20the%20instrument%20of%20science.gif" width="100">
-![](images/Language%20is%20only%20the%20instrument%20of%20science.gif)
+<img src="images/Language%20is%20only%20the%20instrument%20of%20science.gif" width="300">
+<!-- ![](images/Language%20is%20only%20the%20instrument%20of%20science.gif)
 
 <!--
 **Shahed96/Shahed96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
