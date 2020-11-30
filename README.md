@@ -1,4 +1,5 @@
 ### Hi there, It's Shahed 👋
+<img src="images/Language%20is%20only%20the%20instrument%20of%20science.gif" width="100">
 ![](images/Language%20is%20only%20the%20instrument%20of%20science.gif)
 
 <!--
