@@ -6,10 +6,21 @@ I'm a computer engineer, and I document my coding journey on this platform.
 
 
 <img src="images/Language%20is%20only%20the%20instrument%20of%20science.gif" width="300">
-<!-- ![](images/Language%20is%20only%20the%20instrument%20of%20science.gif)
+<!-- ![](images/Language%20is%20only%20the%20instrument%20of%20science.gif)-->
+<a href="https://web.facebook.com/profile.php?id=100002357713109" 
+      target="_blank" title="Facebook account">Facebook</a> 
+      
+   <a href="https://www.instagram.com/sh.a.alali/" 
+      target="_blank" title="Instagram account">Instagram</a>
+      
+ <a href="https://www.linkedin.com/in/shahed-abdulwahhab-4441911b0/"   
+      target="_blank" title="Linkedin account">Linkedin</a>
+      
+       
+   
 
 <!--
-**Shahed96/Shahed96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shahed96/Shahed96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
