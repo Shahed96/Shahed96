@@ -7,18 +7,18 @@ I'm a computer engineer, and I document my coding journey on this platform.
 
 <img src="images/Language%20is%20only%20the%20instrument%20of%20science.gif" width="300">
 <!-- ![](images/Language%20is%20only%20the%20instrument%20of%20science.gif)-->
+<footer>
+      <hr>
+      <p>Social media accounts:</p>
 <a href="https://web.facebook.com/profile.php?id=100002357713109" 
       target="_blank" title="Facebook account">Facebook</a> 
       
-   <a href="https://www.instagram.com/sh.a.alali/" 
+ <a href="https://www.instagram.com/sh.a.alali/" 
       target="_blank" title="Instagram account">Instagram</a>
       
-   <a href="https://www.linkedin.com/in/shahed-abdulwahhab-4441911b0/"   
+ <a href="https://www.linkedin.com/in/shahed-abdulwahhab-4441911b0/"   
       target="_blank" title="Linkedin account">Linkedin</a>
-     <footer>
-      <hr>
-      <p> Bye!</p>
-</footer>
+    </footer>
       
       
        
