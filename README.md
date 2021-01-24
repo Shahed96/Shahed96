@@ -13,8 +13,13 @@ I'm a computer engineer, and I document my coding journey on this platform.
    <a href="https://www.instagram.com/sh.a.alali/" 
       target="_blank" title="Instagram account">Instagram</a>
       
- <a href="https://www.linkedin.com/in/shahed-abdulwahhab-4441911b0/"   
+   <a href="https://www.linkedin.com/in/shahed-abdulwahhab-4441911b0/"   
       target="_blank" title="Linkedin account">Linkedin</a>
+     <footer>
+      <hr>
+      <p> Bye!</p>
+</footer>
+      
       
        
    
