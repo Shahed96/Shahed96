@@ -20,10 +20,10 @@ I'm a computer engineer, and I document my coding journey on this platform.
    
 
 <!--
-**Shahed96/Shahed96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+**Shahed96/Shahed96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on java 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+                                              -->
