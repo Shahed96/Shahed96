@@ -21,7 +21,7 @@ I'm a computer engineer, and I document my coding journey on this platform.
     </footer>
       
       
-   <script src="https://kit.fontawesome.com/4f9a31b8b2.js" crossorigin="anonymous"></script>
+ <!--  <script src="https://kit.fontawesome.com/4f9a31b8b2.js" crossorigin="anonymous"></script> -->
    
 
 <!--
