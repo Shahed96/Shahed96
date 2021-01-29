@@ -11,17 +11,17 @@ I'm a computer engineer, and I document my coding journey on this platform.
       <hr>
       <p>Social media accounts:</p>
 <a href="https://web.facebook.com/profile.php?id=100002357713109" 
-      target="_blank" title="Facebook account">Facebook</a> 
+      target="_blank" title="Facebook account"><i class="fab fa-facebook"></a> 
       
  <a href="https://www.instagram.com/sh.a.alali/" 
-      target="_blank" title="Instagram account">Instagram</a>
+      target="_blank" title="Instagram account"><i class="fab fa-instagram"></i></a>
       
  <a href="https://www.linkedin.com/in/shahed-abdulwahhab-4441911b0/"   
-      target="_blank" title="Linkedin account">Linkedin</a>
+      target="_blank" title="Linkedin account"><i class="fab fa-linkedin-in"></i></a>
     </footer>
       
       
-       
+   <script src="https://kit.fontawesome.com/4f9a31b8b2.js" crossorigin="anonymous"></script>
    
 
 <!--
