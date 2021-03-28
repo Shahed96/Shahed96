@@ -8,7 +8,9 @@ I'm a computer engineer, and I document my coding journey on this platform.
 <img src="images/Language%20is%20only%20the%20instrument%20of%20science.gif" width="300">
 <!-- ![](images/Language%20is%20only%20the%20instrument%20of%20science.gif)-->
 <footer>
-      <hr>
+       <a href="https://dev.to/shahed96" 
+      target="_blank" title="Dev community">Articals</a>
+   <hr>
       <p>Social media accounts:</p>
 <a href="https://web.facebook.com/profile.php?id=100002357713109" 
       target="_blank" title="Facebook account">Facebook</a> 
