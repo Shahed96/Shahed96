@@ -5,7 +5,7 @@ Here is some articals:
       target="_blank" title="Dev community">Articals</a>
 
 
-🔭 I’m currently working on java 
+🔭 I’m currently working on j2EE 
 
 
 <img src="images/Language%20is%20only%20the%20instrument%20of%20science.gif" width="300">
