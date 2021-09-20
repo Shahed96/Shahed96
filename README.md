@@ -1,6 +1,6 @@
 ### Hi there, It's Shahed 👋
 I'm a computer engineer, and I document my coding journey on this platform. <br>
-Here is some articals to enjoy:
+Here are some articals to enjoy:
 <a href="https://dev.to/shahed96" 
       target="_blank" title="Dev community">Articals</a>
 
